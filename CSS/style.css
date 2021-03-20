@@ -277,7 +277,7 @@ body {
 }
 
 .gallery-button-right {
-    background-image: url(/Icons/Arrow_left.svg);
+    background-image: url(/Lipsum-main/Icons/arrow_left.svg);
     height: 23px;
     width: 23px;
     border-radius: 50%;
@@ -285,7 +285,7 @@ body {
 }
 
 .gallery-button-left {
-    background-image: url(/Icons/arrow_right.svg);
+    background-image: url(/Lipsum-main/Icons/arrow_right.svg);
     height: 23px;
     width: 23px;
     border-radius: 50%;
