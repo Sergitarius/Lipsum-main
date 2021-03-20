@@ -427,14 +427,14 @@ body {
 }
 
 .middle-content-list-item1 {
-    background: url(../Lipsum-main/Icons/phone.svg) 8px no-repeat;
+    background: url(/Lipsum-main/Icons/phone.svg) 8px no-repeat;
     padding: 12px 0 12px 30px;
     border-bottom: 1px dotted #ccc;
     font-weight: 900;
 }
 
 .middle-content-list-item2 {
-    background: url(../Lipsum-main/Icons/fax_icon.png) no-repeat;
+    background: url(/Lipsum-main/Icons/fax_icon.png) no-repeat;
     padding: 9px 0px 12px 30px;
     margin-top: 7px;
     border-bottom: 1px dotted #ccc;
@@ -443,13 +443,13 @@ body {
 }
 
 .middle-content-list-item3 {
-    background: url(../Lipsum-main/Icons/Mail.svg) left no-repeat;
+    background: url(/Lipsum-main/Icons/Mail.svg) left no-repeat;
     padding: 9px 0px 12px 37px;
     border-bottom: 1px dotted #ccc;
 }
 
 .middle-content-list-item4 {
-    background: url(../Lipsum-main/Icons/Home.svg) left top no-repeat;
+    background: url(/Lipsum-main/Icons/Home.svg) left top no-repeat;
     padding: 9px 0px 12px 37px;
     margin-top: 7px;
 }
